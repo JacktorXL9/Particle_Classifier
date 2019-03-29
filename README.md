@@ -5,5 +5,11 @@ Secondly the data is greatyl skewed in the respect that there are far fewer poin
 However despite all this I was able to make a fairly simple classifier using the RandomForest method that predicted the values of the larger targets to  precision >= 97% and the smaller targets to precisions >=75% which I feel is quite solid given the issues.
 I will be exploring other methods with this data in the future and will post what updates I make here.
 
+Note: I am presently having difficulties getting the jupyter notebook to open and this seems to be a fairly common issue. A full rendering of the notebook can be found here
+https://nbviewer.jupyter.org/github/JacktorXL9/Particle_Classifier/blob/master/Particle_Classifier.ipynb
+
 Version 1.0 2019-03-27
 Base
+
+Version 1.0.1 2019-03-29
+Added a link to a notebook viewer as GitHub's seems unstable
