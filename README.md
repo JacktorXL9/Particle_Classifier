@@ -7,3 +7,5 @@ I will be exploring other methods with this data in the future and will post wha
 
 Version 1.0 2019-03-27
 Base
+
+  $jupyter nbconvert --to html Particle_Classifier.ipynb
