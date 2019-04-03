@@ -13,3 +13,6 @@ Base
 
 Version 1.0.1 2019-03-29
 Added a link to a notebook viewer as GitHub's seems unstable
+
+Version 1.1 2019-04-03
+Worked with a more biased data set which had an equal distribution of the 4 targets. This produced much better results for the positrons and the kaeons but hurt the accuracy of the other two variables. In addition to this and XGBoost classifer was used to see if any imporvements could be made however it did not perform any better than a RandomForestClassifier. In addition to this a model was built using the entire data set, but due to the lack of the afformentioned biasing towards the less represented variables, not much improvement was made.
